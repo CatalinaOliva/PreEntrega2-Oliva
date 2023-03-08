@@ -221,12 +221,6 @@ html {
 }
 
 /* fin del grid */
-
-/* footer */
-
-
-
-
 /* fin del home */
 
 
@@ -235,8 +229,6 @@ html {
 
 
 /* comienzo de Volunteering */
-
-
 /* grid*/
 
 .gridImg {
@@ -318,7 +310,7 @@ html {
 /* footer */
 
 .iconSize {
-    width: 3vw;
+    width: 2.5rem;
 }
 
 .textVolunt2 {
@@ -429,6 +421,10 @@ html {
     .styleImg .styleImg2 .styleImg3 .styleImg4 .styleImg5 {
         padding-top: 1rem;
     }
+
+    .iconSize {
+        width: 2rem;
+    }    
 }
 
 @media screen and (max-width: 375px) {
